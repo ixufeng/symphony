@@ -433,7 +433,7 @@
 
         </plugins>
 
-        <finalName>symphony</finalName>
+        <finalName>root</finalName>
     </build>
 
     <profiles>
